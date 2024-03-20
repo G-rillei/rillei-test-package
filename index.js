@@ -1,0 +1,3 @@
+modules.exports = {
+  teste: "teste",
+};
